@@ -12,7 +12,12 @@ Mentor : NEELA SANTHOSH KUMAR
 
 
 
-OVERVIEW OF THE PROJECT
+OVERVIEW OF THE PROJECT :
+
+![task 1 output](https://github.com/user-attachments/assets/2f6efa1d-d310-43f0-a09c-eec6e34794f1)
+
+![task 1 output 2nd half](https://github.com/user-attachments/assets/5f38415a-1ccf-47f3-9f6c-3aa0683b8034)
+
 
 PROJECT : CREATE AN E-COMMERCE WEBSITE
 
